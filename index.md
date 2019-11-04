@@ -1,3 +1,10 @@
 # Welcome to my blog
+## This is my first blog
 
-I'm glad you are here. I plan to talk about ...
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+  
+  
+  
